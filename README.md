@@ -18,6 +18,7 @@ Conduct data analysis and data exploration of climate database from Hawaii from 
 
 ![temp](Resources/temp_hist.png)
 
+
 * Design Flask API to create routes to each query
 
 ## Final Files
